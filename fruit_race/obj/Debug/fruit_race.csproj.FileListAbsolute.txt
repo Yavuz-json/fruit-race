@@ -1,0 +1,11 @@
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\bin\Debug\fruit_race.exe.config
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\bin\Debug\fruit_race.exe
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\bin\Debug\fruit_race.pdb
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\obj\Debug\fruit_race.csproj.AssemblyReference.cache
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\obj\Debug\fruit_race.csproj.SuggestedBindingRedirects.cache
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\obj\Debug\fruit_race.Form1.resources
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\obj\Debug\fruit_race.Properties.Resources.resources
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\obj\Debug\fruit_race.csproj.GenerateResource.cache
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\obj\Debug\fruit_race.csproj.CoreCompileInputs.cache
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\obj\Debug\fruit_race.exe
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\fruit_race\obj\Debug\fruit_race.pdb
