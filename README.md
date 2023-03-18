@@ -1,6 +1,4 @@
 # fruit-race
-Game of chance
-
 .NET Framework 4.8
 
 To win, you must match the color orange or match 4 or more, the bet is doubled.
